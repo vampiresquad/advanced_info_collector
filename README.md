@@ -16,3 +16,5 @@ To use this tool, follow these steps:
    ```bash
    git clone https://github.com/vampiresquad/advanced_info_collector.git
    cd advanced_info_collector
+pip install -r requirements.txt 
+python advanced_info_collector.py
